@@ -1,0 +1,41 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5001/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "CompanyApi": {
+      "commandName": "Project",
+      "launchUrl": "api/values",
+      "environmentVariables": {
+        "LOADBALANCER": "google.com",
+        "COMPANY_MONGODB_HOST": "localhost",
+        "COMPANY_MONGODB_DATABASE_NAME": "db_companies",
+        "ES_PORT": "9200",
+        "RABBITMQ_PASSWORD": "guest",
+        "ES_HOST": "localhost",
+        "COMPANY_MONGODB_PORT": "27017",
+        "RABBITMQ_USERNAME": "guest",
+        "IS_SERVER": "http://localhost:5000",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "RABBITMQ_HOST": "localhost",
+        "MONGODB_USERNAME": "root",
+        "MONGODB_PASSWORD": "123456",
+        "REDIS_HOST": "localhost",
+        "REDIS_PORT": "6379",
+        "NOTIFICATION_MONGODB_HOST": "mongo",
+        "NOTIFICATION_MONGODB_PORT": "27017",
+        "NOTIFICATION_MONGODB_DATABASE_NAME": "db_notifications",
+        "APISMS_VMG_USER_NAME": "twinvn",
+        "APISMS_VMG_PASSWORD": "vmg123456",
+        "APISMS_VMG_ALIAS": "TWIN.VN",
+        "APISMS_VMG_PREFIX": "84"
+      },
+      "applicationUrl": "http://localhost:5001/"
+    }
+  }
+}

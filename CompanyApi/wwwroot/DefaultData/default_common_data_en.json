@@ -1,0 +1,331 @@
+﻿[
+  //status
+  {
+    "dataType": 1,
+    "dataKey": "new",
+    "dataValue": "New",
+    "color": "#00ffff",
+    "weight": 1
+  },
+  {
+    "dataType": 1,
+    "dataKey": "contacted",
+    "dataValue": "Contacted",
+    "color": "#e09ea2",
+    "weight": 2
+  },
+  {
+    "dataType": 1,
+    "dataKey": "potential",
+    "dataValue": "Potential",
+    "color": "#9900ff",
+    "weight": 3
+  },
+  {
+    "dataType": 1,
+    "dataKey": "interest",
+    "dataValue": "Interest",
+    "color": "#00ff00",
+    "weight": 4
+  },
+  {
+    "dataType": 1,
+    "dataKey": "preOrder",
+    "dataValue": "Pre-Order",
+    "color": "#ff66cc",
+    "weight": 5
+  },
+  {
+    "dataType": 1,
+    "dataKey": "purchased",
+    "dataValue": "Purchased",
+    "color": "#0000ff",
+    "weight": 6
+  },
+  {
+    "dataType": 1,
+    "dataKey": "notInterest",
+    "dataValue": "Not interest",
+    "color": "#eeeeee",
+    "weight": 7
+  },
+  {
+    "dataType": 1,
+    "dataKey": "noContacted",
+    "dataValue": "Can not contacted",
+    "color": "#ff0000",
+    "weight": 8
+  },
+  {
+    "dataType": 1,
+    "dataKey": "cancelled",
+    "dataValue": "Cancelled",
+    "color": "#000000",
+    "weight": 9
+  },
+  //source
+  {
+    "dataType": 2,
+    "dataKey": "calls",
+    "dataValue": "Calls",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 2,
+    "dataKey": "inPerson",
+    "dataValue": "In-person",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 2,
+    "dataKey": "form",
+    "dataValue": "Online form",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 2,
+    "dataKey": "email1",
+    "dataValue": "Email",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 2,
+    "dataKey": "facebookPage",
+    "dataValue": "Facebook page",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  {
+    "dataType": 2,
+    "dataKey": "facebookAds",
+    "dataValue": "Facebook ads",
+    "color": "#5e5d21",
+    "weight": 6
+  },
+  {
+    "dataType": 2,
+    "dataKey": "googleAds",
+    "dataValue": "Google Ads",
+    "color": "#5e5d21",
+    "weight": 7
+  },
+  {
+    "dataType": 2,
+    "dataKey": "youtube",
+    "dataValue": "Youtube",
+    "color": "#5e5d21",
+    "weight": 8
+  },
+  {
+    "dataType": 2,
+    "dataKey": "otherSocial",
+    "dataValue": "Other Social",
+    "color": "#5e5d21",
+    "weight": 9
+  },
+  {
+    "dataType": 2,
+    "dataKey": "sem",
+    "dataValue": "SEM",
+    "color": "#5e5d21",
+    "weight": 10
+  },
+  {
+    "dataType": 2,
+    "dataKey": "paidLead",
+    "dataValue": "Paid lead",
+    "color": "#5e5d21",
+    "weight": 11
+  },
+  {
+    "dataType": 2,
+    "dataKey": "other1",
+    "dataValue": "Other",
+    "color": "#5e5d21",
+    "weight": 12
+  },
+  //channel
+  {
+    "dataType": 3,
+    "dataKey": "referrals",
+    "dataValue": "Referrals",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 3,
+    "dataKey": "sms",
+    "dataValue": "SMS",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 3,
+    "dataKey": "email2",
+    "dataValue": "Email",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 3,
+    "dataKey": "direct",
+    "dataValue": "Direct",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 3,
+    "dataKey": "newsPaper",
+    "dataValue": "News paper",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  {
+    "dataType": 3,
+    "dataKey": "teleMarketing",
+    "dataValue": "Tele marketing",
+    "color": "#5e5d21",
+    "weight": 6
+  },
+  {
+    "dataType": 3,
+    "dataKey": "search",
+    "dataValue": "Search",
+    "color": "#5e5d21",
+    "weight": 7
+  },
+  {
+    "dataType": 3,
+    "dataKey": "socialNetworks",
+    "dataValue": "Social networks",
+    "color": "#5e5d21",
+    "weight": 8
+  },
+  {
+    "dataType": 3,
+    "dataKey": "targetedDisplay",
+    "dataValue": "Targeted display",
+    "color": "#5e5d21",
+    "weight": 9
+  },
+  {
+    "dataType": 3,
+    "dataKey": "other2",
+    "dataValue": "Other",
+    "color": "#5e5d21",
+    "weight": 10
+  },
+  //vocative
+  {
+    "dataType": 4,
+    "dataKey": "mr",
+    "dataValue": "Mr",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 4,
+    "dataKey": "ms",
+    "dataValue": "Ms",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 4,
+    "dataKey": "sister",
+    "dataValue": "Sister",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 4,
+    "dataKey": "brother",
+    "dataValue": "Brother",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 4,
+    "dataKey": "uncle",
+    "dataValue": "Uncle",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  //marital status
+  {
+    "dataType": 5,
+    "dataKey": "single",
+    "dataValue": "Single",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 5,
+    "dataKey": "married",
+    "dataValue": "Married",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 5,
+    "dataKey": "unknow1",
+    "dataValue": "Unknow",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  //relationship
+  {
+    "dataType": 6,
+    "dataKey": "friend2",
+    "dataValue": "Friends",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 6,
+    "dataKey": "colleague",
+    "dataValue": "Colleagues",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 6,
+    "dataKey": "relative",
+    "dataValue": "Relatives",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 6,
+    "dataKey": "unknow2",
+    "dataValue": "Unknow",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  //gender
+  {
+    "dataType": 7,
+    "dataKey": "male",
+    "dataValue": "Male",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 7,
+    "dataKey": "female",
+    "dataValue": "Female",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 7,
+    "dataKey": "unknow3",
+    "dataValue": "Unknow",
+    "color": "#5e5d21",
+    "weight": 3
+  }
+]

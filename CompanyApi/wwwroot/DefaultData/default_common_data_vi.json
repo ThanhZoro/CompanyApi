@@ -1,0 +1,352 @@
+﻿[
+  //status
+  {
+    "dataType": 1,
+    "dataKey": "new",
+    "dataValue": "Mới",
+    "color": "#00ffff",
+    "weight": 1
+  },
+  {
+    "dataType": 1,
+    "dataKey": "contacted",
+    "dataValue": "Đã liên hệ",
+    "color": "#e09ea2",
+    "weight": 2
+  },
+  {
+    "dataType": 1,
+    "dataKey": "potential",
+    "dataValue": "Tiềm năng",
+    "color": "#9900ff",
+    "weight": 3
+  },
+  {
+    "dataType": 1,
+    "dataKey": "interest",
+    "dataValue": "Quan tâm",
+    "color": "#00ff00",
+    "weight": 4
+  },
+  {
+    "dataType": 1,
+    "dataKey": "preOrder",
+    "dataValue": "Đặt hàng",
+    "color": "#ff66cc",
+    "weight": 5
+  },
+  {
+    "dataType": 1,
+    "dataKey": "purchased",
+    "dataValue": "Mua hàng",
+    "color": "#0000ff",
+    "weight": 6
+  },
+  {
+    "dataType": 1,
+    "dataKey": "notInterest",
+    "dataValue": "Không quan tâm",
+    "color": "#eeeeee",
+    "weight": 7
+  },
+  {
+    "dataType": 1,
+    "dataKey": "noContacted",
+    "dataValue": "Không liên lạc được",
+    "color": "#ff0000",
+    "weight": 8
+  },
+  {
+    "dataType": 1,
+    "dataKey": "cancelled",
+    "dataValue": "Hủy",
+    "color": "#000000",
+    "weight": 9
+  },
+  //source
+  {
+    "dataType": 2,
+    "dataKey": "calls",
+    "dataValue": "Gọi điện",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 2,
+    "dataKey": "inPerson",
+    "dataValue": "Tiếp xúc",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 2,
+    "dataKey": "form",
+    "dataValue": "Form đăng ký",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 2,
+    "dataKey": "email1",
+    "dataValue": "Email",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 2,
+    "dataKey": "facebookPage",
+    "dataValue": "Trang Facebook",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  {
+    "dataType": 2,
+    "dataKey": "facebookAds",
+    "dataValue": "QC Facebook",
+    "color": "#5e5d21",
+    "weight": 6
+  },
+  {
+    "dataType": 2,
+    "dataKey": "googleAds",
+    "dataValue": "QC Google",
+    "color": "#5e5d21",
+    "weight": 7
+  },
+  {
+    "dataType": 2,
+    "dataKey": "youtube",
+    "dataValue": "Youtube",
+    "color": "#5e5d21",
+    "weight": 8
+  },
+  {
+    "dataType": 2,
+    "dataKey": "otherSocial",
+    "dataValue": "MXH khác",
+    "color": "#5e5d21",
+    "weight": 9
+  },
+  {
+    "dataType": 2,
+    "dataKey": "sem",
+    "dataValue": "SEM",
+    "color": "#5e5d21",
+    "weight": 10
+  },
+  {
+    "dataType": 2,
+    "dataKey": "paidLead",
+    "dataValue": "Trả phí",
+    "color": "#5e5d21",
+    "weight": 11
+  },
+  {
+    "dataType": 2,
+    "dataKey": "other1",
+    "dataValue": "Khác",
+    "color": "#5e5d21",
+    "weight": 12
+  },
+  //channel
+  {
+    "dataType": 3,
+    "dataKey": "referrals",
+    "dataValue": "Giới thiệu",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 3,
+    "dataKey": "sms",
+    "dataValue": "SMS",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 3,
+    "dataKey": "email2",
+    "dataValue": "Email",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 3,
+    "dataKey": "direct",
+    "dataValue": "Direct",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 3,
+    "dataKey": "newsPaper",
+    "dataValue": "Báo chí",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  {
+    "dataType": 3,
+    "dataKey": "teleMarketing",
+    "dataValue": "Gọi điện",
+    "color": "#5e5d21",
+    "weight": 6
+  },
+  {
+    "dataType": 3,
+    "dataKey": "search",
+    "dataValue": "Tìm kiếm",
+    "color": "#5e5d21",
+    "weight": 7
+  },
+  {
+    "dataType": 3,
+    "dataKey": "socialNetworks",
+    "dataValue": "Mạng xã hội",
+    "color": "#5e5d21",
+    "weight": 8
+  },
+  {
+    "dataType": 3,
+    "dataKey": "targetedDisplay",
+    "dataValue": "Hiển thị theo mục tiêu",
+    "color": "#5e5d21",
+    "weight": 9
+  },
+  {
+    "dataType": 3,
+    "dataKey": "other2",
+    "dataValue": "Khác",
+    "color": "#5e5d21",
+    "weight": 10
+  },
+  //vocative
+  {
+    "dataType": 4,
+    "dataKey": "mr",
+    "dataValue": "Anh",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 4,
+    "dataKey": "ms",
+    "dataValue": "Chị",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 4,
+    "dataKey": "uncle1",
+    "dataValue": "Chú",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 4,
+    "dataKey": "uncle2",
+    "dataValue": "Bác",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  {
+    "dataType": 4,
+    "dataKey": "aunt1",
+    "dataValue": "Cô",
+    "color": "#5e5d21",
+    "weight": 5
+  },
+  {
+    "dataType": 4,
+    "dataKey": "aunt2",
+    "dataValue": "Dì",
+    "color": "#5e5d21",
+    "weight": 6
+  },
+  {
+    "dataType": 4,
+    "dataKey": "friend1",
+    "dataValue": "Bạn",
+    "color": "#5e5d21",
+    "weight": 7
+  },
+  {
+    "dataType": 4,
+    "dataKey": "sibling",
+    "dataValue": "Em",
+    "color": "#5e5d21",
+    "weight": 8
+  },
+  //marital status
+  {
+    "dataType": 5,
+    "dataKey": "single",
+    "dataValue": "Độc thân",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 5,
+    "dataKey": "married",
+    "dataValue": "Đã kết hôn",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 5,
+    "dataKey": "unknow1",
+    "dataValue": "Chưa xác định",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  //relationship
+  {
+    "dataType": 6,
+    "dataKey": "friend2",
+    "dataValue": "Bạn bè",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 6,
+    "dataKey": "colleague",
+    "dataValue": "Đồng nghiệp",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 6,
+    "dataKey": "relative",
+    "dataValue": "Người thân",
+    "color": "#5e5d21",
+    "weight": 3
+  },
+  {
+    "dataType": 6,
+    "dataKey": "unknow2",
+    "dataValue": "Chưa xác định",
+    "color": "#5e5d21",
+    "weight": 4
+  },
+  //gender
+  {
+    "dataType": 7,
+    "dataKey": "male",
+    "dataValue": "Nam",
+    "color": "#5e5d21",
+    "weight": 1
+  },
+  {
+    "dataType": 7,
+    "dataKey": "female",
+    "dataValue": "Nữ",
+    "color": "#5e5d21",
+    "weight": 2
+  },
+  {
+    "dataType": 7,
+    "dataKey": "unknow3",
+    "dataValue": "Chưa xác định",
+    "color": "#5e5d21",
+    "weight": 3
+  }
+]
